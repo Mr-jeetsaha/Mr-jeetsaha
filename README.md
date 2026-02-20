@@ -1,5 +1,6 @@
 # ⚠️About Me:
-*  Hey! Good to See you👋🏼 <br><br> 
+*  Hey! Good to See you👋🏼 <br><br>
+*  🧮 Data Analyst exploring the science behind decisions
 *  😎 Structured thinking in an unstructured world<br><br> 
 *  🔬 Experimenting with data until it makes sense<br><br> 
 *  📈 Data in ⏬ Insight out ⏫<br><br> 
