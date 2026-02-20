@@ -1,11 +1,11 @@
 # ⚠️About Me:
 *  Hey! Good to See you👋🏼 <br><br>
-*  🧮 Data Analyst exploring the science behind decisions
+*  🧮 Data Analyst exploring the science behind decisions<br><br> 
 *  😎 Structured thinking in an unstructured world<br><br> 
 *  🔬 Experimenting with data until it makes sense<br><br> 
 *  📈 Data in ⏬ Insight out ⏫<br><br> 
 *  🤝 In a long-term relationship with GitHub<br><br> 
-*  ☕ Running on caffeine & SQL<br><br> 
+
 
 
 ## 🌐 Socials:
