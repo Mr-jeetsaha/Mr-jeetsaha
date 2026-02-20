@@ -1,5 +1,10 @@
-# About Me:
-Hey! Good to See you <br>I'm here to steal your code (inspirationally, of course)<br>I'm not a user, I'm a feature<br>Data sirf numbers nahi, kahani hoti hai<br>Training models, fixing bugs, learning daily <br>AI & Data Science<br>print('404 Bio Not Found')
+# ⚠️About Me:
+*  Hey! Good to See you👋🏼 <br><br> 
+*  😎 Structured thinking in an unstructured world<br><br> 
+*  🔬 Experimenting with data until it makes sense<br><br> 
+*  📈 Data in ⏬ Insight out ⏫<br><br> 
+*  🤝 In a long-term relationship with GitHub<br><br> 
+*  ☕ Running on caffeine & SQL<br><br> 
 
 
 ## 🌐 Socials:
